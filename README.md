@@ -36,5 +36,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
    <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="numpy icon" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/panda/panda-original.svg" height="40" alt="panda icon" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas icon" />
 </div>
