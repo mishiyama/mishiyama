@@ -19,7 +19,7 @@
 
 <div align="center">
  <pre>
-  <h3><strong>TECH SKILLS</strong></h3>
+  <strong>TECH SKILLS</strong>
 </pre>
 </div>
 
@@ -44,7 +44,9 @@
 ---
 
 <div align="center">
-  <h3><strong>GITHUB STATS 🔥</strong></h3>
+<pre>
+  <strong>GITHUB STATS 🔥</strong>
+</pre>
 </div>
        
 ![mishiyama's Stats](https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
