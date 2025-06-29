@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <h3><strong>GITHUB STREAK 🔥</strong></h3>
+  <h3><strong>GITHUB STATS 🔥</strong></h3>
 </div>
        
 ![mishiyama's Stats](https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
