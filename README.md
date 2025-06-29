@@ -45,8 +45,6 @@
   <h3><strong>GITHUB STREAK 🔥</strong></h3>
 </div>
        
-<div align="center">
+![mishiyama's Stats](https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mishiyama&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-   
-</div>
+![mishiyama's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
