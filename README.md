@@ -17,10 +17,10 @@
 
 ---
 
-
 <div align="center">
   <h3><strong>TECH SKILLS</strong></h3>
 </div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -40,6 +40,10 @@
 </div>
 
 ---
-       GITHUB STREAK
+
+<div align="center">
+  <h3><strong>GITHUB STREAK 🔥</strong></h3>
+</div>
+       
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mishiyama&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
