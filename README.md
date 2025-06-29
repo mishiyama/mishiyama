@@ -18,7 +18,9 @@
 ---
 
 <div align="center">
+ <pre>
   <h3><strong>TECH SKILLS</strong></h3>
+</pre>
 </div>
 
 
