@@ -38,3 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="numpy icon" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas icon" />
 </div>
+---
+ 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mishiyama&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
