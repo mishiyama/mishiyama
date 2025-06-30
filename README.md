@@ -44,11 +44,12 @@
 ---
 
 <div align="center">
-<pre>
-  <strong>GITHUB STATS 🔥</strong>
-</pre>
+  <pre>
+    <strong>GITHUB STATS 🔥</strong>
+  </pre>
 </div>
-       
-![mishiyama's Stats](https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="mishiyama's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mishiyama's Top Languages" />
+</div>
 
-![mishiyama's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
