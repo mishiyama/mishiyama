@@ -19,7 +19,7 @@
 
 <div align="center">
  <pre>
-  <strong>TECH SKILLS</strong>
+  <strong> 🕯️TECH SKILLS🕯️</strong>
 </pre>
 </div>
 
