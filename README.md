@@ -24,14 +24,14 @@
 </div>
 
 <div align="center" style="max-width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="max-height:40px;" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="max-height:40px;" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="max-height:40px;" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="max-height:40px;" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="max-height:40px;" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="max-height:40px;" alt="linux logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" style="max-height:40px;" alt="numpy icon" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" style="max-height:40px;" alt="pandas icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="height: 40px;" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="height: 40px;" alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="height: 40px;" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="height: 40px;" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="height: 40px;" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="height: 40px;" alt="linux logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" style="height: 40px;" alt="numpy icon" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" style="height: 40px;" alt="pandas icon" />
 </div>
 
 ---
@@ -45,4 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="mishiyama's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mishiyama's Top Languages" />
 </div>
-
