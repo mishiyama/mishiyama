@@ -10,6 +10,7 @@
 </div>  <div align="center">  
   <img src="https://github.com/mishiyama/mishiyama/blob/main/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS.gif?raw=true" alt="Your Gif">  
 </div>  
+
 ---
 
 <div align="center">  
@@ -26,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" style="height: 40px;" alt="numpy icon" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" style="height: 40px;" alt="pandas icon" />  
 </div>  
+
 ---
 
 <div align="center">  
@@ -36,5 +38,4 @@
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">  
   <img src="https://github-readme-stats.vercel.app/api?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="mishiyama's Stats" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mishiyama's Top Languages" />  
-</div>  I wanted the symbol to redirect clicker to it each own website too
-
+</div>  
