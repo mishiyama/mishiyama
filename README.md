@@ -10,6 +10,7 @@
 </div>  <div align="center">  
   <img src="https://github.com/mishiyama/mishiyama/blob/main/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS.gif?raw=true" alt="Your Gif">  
 </div>  
+
 ---
 
 <div align="center">  
@@ -26,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" style="height: 40px;" alt="numpy icon" />  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" style="height: 40px;" alt="pandas icon" />  
 </div>  
+
 ---
 
 <div align="center">  
