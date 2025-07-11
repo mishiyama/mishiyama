@@ -12,7 +12,12 @@
 </div>  
 
 ---
-<h2 align="center">🕯️ Tech Skills 🕯️</h2>
+
+<div align="center">  
+  <pre>  
+    <strong>🕯️ Tech Skills 🕯️</strong>  
+  </pre>  
+</div>  
 
 <p align="center">
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" /></a>&nbsp;
@@ -23,7 +28,16 @@
   <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" /></a>&nbsp;
   <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" /></a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" /></a>
+   <a href="https://dart.dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
+</a>
+
 </p>
+
+<div align="center">
+  <img src="https://github.com/mishiyama/mishiyama/blob/main/killua-hunter-x-hunter.gif?raw=true" alt="Killua Gif" width="130" />
+</div>
+
 
 ---
 
