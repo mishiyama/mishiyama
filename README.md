@@ -44,6 +44,6 @@
    <img 
     src="https://github-stats-card-generator.vercel.app/api/svg?username=mishiyama&theme=tokyonight&chart=bars"
     alt="mishiyama's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishiyama&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="mishiyama's Top Languages" />  
+  
 </div>  
 
