@@ -37,7 +37,7 @@
 
 <div align="center">  
   <pre>  
-    <strong>GITHUB STATS 🔥</strong>  
+    <strong>GITHUB STATS </strong>  
   </pre>  
 </div>  
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">  
