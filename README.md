@@ -15,7 +15,7 @@
 
 <div align="center">  
   <pre>  
-    <strong>🪛 Tech Skills 🪛</strong>  
+    <strong> Tech Skills </strong>  
   </pre>  
 </div>  
 <p align="center">
