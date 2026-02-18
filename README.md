@@ -1,7 +1,6 @@
 <div align="center">  
-   <a href="https://git.io/typing-svg">  
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Zeroes+%26+Ones%3A+My+New+World" alt="Typing SVG">  
-   </a>  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Learning+Code+One+Respawn+At+A+Time" alt="Typing SVG" /></a>
+   
 </div>  <div align="center">  
   <pre>   
     Hey, I'm Ayush, A student and beginner —   
