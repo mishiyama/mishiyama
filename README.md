@@ -32,17 +32,7 @@
 </div>
 
 
----
 
-<div align="center">  
-  <pre>  
-    <strong>GITHUB STATS </strong>  
-  </pre>  
-</div>  
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">  
-   <img 
-    src="https://github-stats-card-generator.vercel.app/api/svg?username=mishiyama&theme=tokyonight&chart=bars"
-    alt="mishiyama's GitHub stats">
-  
-</div>  
+
+
 
